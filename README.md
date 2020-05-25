@@ -1,2 +1,4 @@
 # hello-world
-very first repository!
+my very first repository!
+
+Hi! My name Xenia and this is my very first repository.
